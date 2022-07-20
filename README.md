@@ -1,0 +1,2 @@
+# DataModelingForRouteResult
+Indonesian airlines were into turbulance situation due to the spread of COVID-19 since March 2020. The positive route result dropped significantly. Government’s policy to implement PSBB and PPKM urged the airline to be agile with the current situation immediately to maintain business continuity. Data science will drive the airline in finding the significant factors which could lead in maintaining profitability route
